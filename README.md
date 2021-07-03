@@ -11,3 +11,16 @@ Además facilita su visibilidad, potencia  y viabiliza sus talentos y emprendimi
 
 ## Diagrama de solución  
 [Diagrama](https://github.com/AndrewMiranda/YoungClusters/blob/main/image/Path.jpg)
+
+
+### Contacto
+
+[Andrew Miranda](tiburonandrew@gmail.com)
+
+[Duvan Rodelo](https://www.linkedin.com/in/duvanrode1o/)
+
+[Guillermo Paez](guillermopaezguerra@gmail.com)
+
+[Ramiro Vargas](ravargas456@misena.edu.co)
+
+[Jaime Garcia](jaimegarcia9999c@gmail.com)
